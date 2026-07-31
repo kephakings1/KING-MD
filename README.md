@@ -21,7 +21,7 @@ Follow these steps to get started.
 
 ### 2. **Get Session ID**
 <p>
-  <a href="https://peace-hub-mcbo.onrender.com/pair" target="_blank">
+  <a href="https://kingsession.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Pair--Code-animeblue?style=for-the-badge&logo=whatsapp" alt="Pair Code">
   </a>
 </p>
